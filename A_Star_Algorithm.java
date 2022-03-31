@@ -17,7 +17,7 @@ import java.util.Collections;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class is18227023{
+public class A_Star_Algorithm{
     private char[][] mat;
     private Point start;
     private Point end;
